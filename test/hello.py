@@ -5,7 +5,7 @@ Created on 2016/12/23
 '''
 
 def hello():
-    print("hello world")
+    print("こんにちは Python")
 
 if __name__ == '__main__':
     hello()
