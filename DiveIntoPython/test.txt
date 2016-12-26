@@ -1,0 +1,4 @@
+http://proxy.xxx/
+8080
+nogami
+www
